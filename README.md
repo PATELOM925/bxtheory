@@ -12,7 +12,7 @@ source bxtheory/bin/activate
 pip install -r bxtheory/multi_tool_agent/requirements.txt
 
 cd bxtheory/multi_tool_agent
-cp .env.example .env
+cp .env
 ```
 
 Set `.env` for Gemini:
