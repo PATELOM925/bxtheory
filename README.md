@@ -5,7 +5,7 @@ This agent generates a day-by-day multi-course study plan from uploaded course P
 ## Quick Start
 
 ```bash
-cd /Users/om-college/Desktop/Work/bxtheory
+cd /bxtheory
 source bxtheory/bin/activate
 
 # Optional: install package deps for this module
