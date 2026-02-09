@@ -1,5 +1,5 @@
 # GitHub Repository
-**Repo Link:** `https://github.com/<your-username>/<your-repo-name>`
+**Repo Link:** `https://github.com/PATELOM925/bxtheory`
 
 # Exam Study Planner Code Documentation
 
